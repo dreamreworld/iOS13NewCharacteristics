@@ -409,7 +409,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6Z6R78X8FT;
-				GCC_PREFIX_HEADER = "/Users/scj/Downloads/ios13NewCharacteristics-master/ios13NewCharacteristics/PrefixHeader.pch";
+				GCC_PREFIX_HEADER = "/Users/scj/Downloads/ios13NewCharacteristics-master/ios13NewCharacteristics/ios13NewCharacteristics/PrefixHeader.pch";
 				INFOPLIST_FILE = ios13NewCharacteristics/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -427,7 +427,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6Z6R78X8FT;
-				GCC_PREFIX_HEADER = "/Users/scj/Downloads/ios13NewCharacteristics-master/ios13NewCharacteristics/PrefixHeader.pch";
+				GCC_PREFIX_HEADER = "/Users/scj/Downloads/ios13NewCharacteristics-master/ios13NewCharacteristics/ios13NewCharacteristics/PrefixHeader.pch";
 				INFOPLIST_FILE = ios13NewCharacteristics/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
